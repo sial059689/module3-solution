@@ -7,6 +7,9 @@
   width: 3px;
 }
 
+
+/* meida quries started here */
+
 @media (min-width: 992px) {
   .col-sm-12, .col-md-6, .col-md-12, .col-lg-4{
     padding: 20px 10px 5px 10px;
